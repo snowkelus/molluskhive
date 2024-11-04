@@ -2,7 +2,7 @@
 
 * CRON Job and RESTFul API Scheduling Framework Method..
 
-#### Added Servers (PlanetScale - MySQL / SQL / MSSQL):
+#### Added Servers (PlanetScale - MongoDB /MariaDB / PostgreSQL / MySQL / SQL / MSSQL):
 
 * JMBD (Blog) (Tokyo)..
 * Marketplace (Tokyo)..
